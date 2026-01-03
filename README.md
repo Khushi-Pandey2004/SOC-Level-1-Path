@@ -9,7 +9,7 @@ The repository is maintained as a **proof of work / proof of learning**, updated
 ## 📌 Current Progress
 
 - ✅ Section 01: **Introduction to Blue Team**
-- ⏳ Remaining sections: In progress (updated daily)
+- ⏳ Remaining sections: In progress (will be updated)
 
 ---
 
@@ -93,7 +93,7 @@ More advanced topics (logs, SIEM, detection, incident response) will be added as
 
 ## 📅 Update Strategy
 
-- One **section completed and pushed per day**
+- One **section completed and pushed **
 - Repository grows **incrementally and cleanly**
 - Emphasis on **quality over speed**
 
