@@ -93,7 +93,7 @@ More advanced topics (logs, SIEM, detection, incident response) will be added as
 
 ## 📅 Update Strategy
 
-- One **section completed and pushed**
+- One **section completed and pushed at a time**
 - Repository grows **incrementally and cleanly**
 - Emphasis on **quality over speed**
 
