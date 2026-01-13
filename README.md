@@ -9,6 +9,7 @@ The repository is maintained as a **proof of work / proof of learning**, updated
 ## 📌 Current Progress
 
 - ✅ Section 01: **Introduction to Blue Team**
+- ✅ Section 02: **SOC Team Internals**
 - ⏳ Remaining sections: In progress (will be updated)
 
 ---
